@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 詩集傳名物鈔
-#+DATE: 2015-09-23 09:36:44
-#+PROPERTY: JUAN 8
+#+DATE: 2015-08-24 22:05:16.719928
+#+PROPERTY: ID KR1c0027
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷八
 <pb:KR1c0027_WYG_008-1a>¶
 欽定四庫全書¶
 　詩集傳名物鈔卷八　　　　元　許謙　撰¶
@@ -1010,4 +1012,3 @@
 　　　右詩一百八十三篇依朱子所定知其時世如¶
 　　　此餘不可知也¶
 　詩集傳名物鈔卷八¶
-

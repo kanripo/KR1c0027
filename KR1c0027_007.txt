@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 詩集傳名物鈔
-#+DATE: 2015-09-23 09:36:44
-#+PROPERTY: JUAN 7
+#+DATE: 2015-08-24 22:05:16.685788
+#+PROPERTY: ID KR1c0027
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷七
 <pb:KR1c0027_WYG_007-1a>¶
 欽定四庫全書¶
 　詩集傳名物鈔卷七　　　　元　許謙　撰¶
@@ -1496,4 +1498,3 @@
 　¶
 　¶
 　詩集傳名物鈔卷七¶
-
